@@ -1,6 +1,6 @@
 # Composer template
 composer.phar
-/vendor/
+*/vendor/
 
 # IDE files
 .idea
