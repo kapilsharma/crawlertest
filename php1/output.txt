@@ -1,0 +1,142 @@
+object(Symfony\Component\DomCrawler\Crawler)#44 (7) {
+  ["uri":protected]=>
+  string(389) "https://login.naukri.com/nLogin/redirect.php?url=http%3A%2F%2Fmy.naukri.com%2FMailers%2Fshowdnc%2F%3Fid%3D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b%7CX%7CY%7CX%7CE%26url%3Dhttp%253A%252F%252Fmy.naukri.com%252FHomePage%252Fview%253Fid%253D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b"
+  ["defaultNamespacePrefix":"Symfony\Component\DomCrawler\Crawler":private]=>
+  string(7) "default"
+  ["namespaces":"Symfony\Component\DomCrawler\Crawler":private]=>
+  array(0) {
+  }
+  ["baseHref":"Symfony\Component\DomCrawler\Crawler":private]=>
+  string(389) "https://login.naukri.com/nLogin/redirect.php?url=http%3A%2F%2Fmy.naukri.com%2FMailers%2Fshowdnc%2F%3Fid%3D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b%7CX%7CY%7CX%7CE%26url%3Dhttp%253A%252F%252Fmy.naukri.com%252FHomePage%252Fview%253Fid%253D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b"
+  ["document":"Symfony\Component\DomCrawler\Crawler":private]=>
+  object(DOMDocument)#162 (34) {
+    ["doctype"]=>
+    string(22) "(object value omitted)"
+    ["implementation"]=>
+    string(22) "(object value omitted)"
+    ["documentElement"]=>
+    string(22) "(object value omitted)"
+    ["actualEncoding"]=>
+    NULL
+    ["encoding"]=>
+    NULL
+    ["xmlEncoding"]=>
+    NULL
+    ["standalone"]=>
+    bool(true)
+    ["xmlStandalone"]=>
+    bool(true)
+    ["version"]=>
+    NULL
+    ["xmlVersion"]=>
+    NULL
+    ["strictErrorChecking"]=>
+    bool(true)
+    ["documentURI"]=>
+    NULL
+    ["config"]=>
+    NULL
+    ["formatOutput"]=>
+    bool(false)
+    ["validateOnParse"]=>
+    bool(true)
+    ["resolveExternals"]=>
+    bool(false)
+    ["preserveWhiteSpace"]=>
+    bool(true)
+    ["recover"]=>
+    bool(false)
+    ["substituteEntities"]=>
+    bool(false)
+    ["nodeName"]=>
+    string(9) "#document"
+    ["nodeValue"]=>
+    NULL
+    ["nodeType"]=>
+    int(13)
+    ["parentNode"]=>
+    NULL
+    ["childNodes"]=>
+    string(22) "(object value omitted)"
+    ["firstChild"]=>
+    string(22) "(object value omitted)"
+    ["lastChild"]=>
+    string(22) "(object value omitted)"
+    ["previousSibling"]=>
+    NULL
+    ["attributes"]=>
+    NULL
+    ["ownerDocument"]=>
+    NULL
+    ["namespaceURI"]=>
+    NULL
+    ["prefix"]=>
+    string(0) ""
+    ["localName"]=>
+    NULL
+    ["baseURI"]=>
+    NULL
+    ["textContent"]=>
+    string(336) "Redirecting
+
+
+
+location.replace("http://my.naukri.com/Mailers/showdnc/?id=319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b|X|Y|X|E&url=http%3A%2F%2Fmy.naukri.com%2FHomePage%2Fview%3Fid%3D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b");
+
+"
+  }
+  ["nodes":"Symfony\Component\DomCrawler\Crawler":private]=>
+  array(1) {
+    [0]=>
+    object(DOMElement)#160 (17) {
+      ["tagName"]=>
+      string(4) "html"
+      ["schemaTypeInfo"]=>
+      NULL
+      ["nodeName"]=>
+      string(4) "html"
+      ["nodeValue"]=>
+      string(336) "Redirecting
+
+
+
+location.replace("http://my.naukri.com/Mailers/showdnc/?id=319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b|X|Y|X|E&url=http%3A%2F%2Fmy.naukri.com%2FHomePage%2Fview%3Fid%3D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b");
+
+"
+      ["nodeType"]=>
+      int(1)
+      ["parentNode"]=>
+      string(22) "(object value omitted)"
+      ["childNodes"]=>
+      string(22) "(object value omitted)"
+      ["firstChild"]=>
+      string(22) "(object value omitted)"
+      ["lastChild"]=>
+      string(22) "(object value omitted)"
+      ["previousSibling"]=>
+      string(22) "(object value omitted)"
+      ["attributes"]=>
+      string(22) "(object value omitted)"
+      ["ownerDocument"]=>
+      string(22) "(object value omitted)"
+      ["namespaceURI"]=>
+      NULL
+      ["prefix"]=>
+      string(0) ""
+      ["localName"]=>
+      string(4) "html"
+      ["baseURI"]=>
+      NULL
+      ["textContent"]=>
+      string(336) "Redirecting
+
+
+
+location.replace("http://my.naukri.com/Mailers/showdnc/?id=319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b|X|Y|X|E&url=http%3A%2F%2Fmy.naukri.com%2FHomePage%2Fview%3Fid%3D319575f352fc7451e9565b3dc527f8ecc04e41cfedf2904c821239cddee7e39b8bb4f50016a41316ce15f14c5ddff95b");
+
+"
+    }
+  }
+  ["isHtml":"Symfony\Component\DomCrawler\Crawler":private]=>
+  bool(true)
+}

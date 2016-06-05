@@ -1,15 +1,23 @@
 {
-    "name": "phpreboot/crawlertest",
-    "description": "Some experiments on how effectively PHP can crawl web pages.",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "kapilsharma",
-            "email": "kapil@kapilsharma.info"
-        }
-    ],
-    "require": {},
-    "require-dev": {
-        "phpunit/phpunit": "~4.8"
+  "name": "phpreboot/crawlertest",
+  "description": "Some experiments on how effectively PHP can crawl web pages.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kapilsharma",
+      "email": "kapil@kapilsharma.info"
     }
+  ],
+  "require": {
+    "fabpot/goutte": "^3.1"
+  },
+  "autoload": {
+    "psr-4": { "Phpreboot\\": "src/Phpreboot" }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.8"
+  },
+  "autoload-dev": {
+    "psr-4": {"Phpreboot\\": "tests/Phpreboot"}
+  }
 }
